@@ -2,7 +2,7 @@
 
 🚀 Senior Software Engineer exploring the world of Machine Learning <br/>
 🤖 Learning ML algorithms and scalable system design <br/>
-📚 Improving my ML, Python and React skills <br/>
+📚 Improving my ML and Python skills <br/>
 🛠 Building AI-driven projects and diving into real-world applications <br/>
 💡 Always learning, always experimenting.
 
