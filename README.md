@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Senior Software Engineer exploring the world of Machine Learning <br/>
+🚀 Software Engineer exploring the world of Machine Learning <br/>
 📚 Improving my ML and Python skills <br/>
 🛠 Building AI-driven projects and diving into real-world applications <br/>
 💡 Always learning, always experimenting.
