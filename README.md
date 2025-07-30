@@ -3,7 +3,6 @@
 
 > Continuously improving my skills in Machine Learning, Python, and modern AI tooling  </br>
 > Building projects with a focus on real-world applications and emerging technologies </br>
-> Always learning, always experimenting</br>
 
 
 ## Tech Stack
