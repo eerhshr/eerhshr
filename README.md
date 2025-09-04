@@ -1,7 +1,7 @@
 ## Hello :)
 #### I’m a Software Engineer learning and building intelligent AI applications ✨</br>
 
-> Continuously improving my skills in Machine Learning, Python, and modern AI tooling  </br>
+> Continuously improving my skills in Machine Learning, Python, and AI tooling </br>
 > Building projects with a focus on real-world applications and emerging technologies </br>
 
 
