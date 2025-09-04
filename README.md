@@ -10,6 +10,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-gray?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231d3d3c.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
