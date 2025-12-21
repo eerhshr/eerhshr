@@ -2,7 +2,7 @@
 #### I’m a Software Engineer learning and building intelligent AI applications ✨</br>
 
 > Building projects with a focus on real-world applications and emerging technologies </br>
-> Continuously improving my skills </br>
+
 
 
 ## Tech Stack
