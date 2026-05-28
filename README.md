@@ -1,6 +1,6 @@
 ## Hello :)
 
->  I’m a Software Engineer learning and building projects with a focus on real-world problems and emerging technologies ⚡️</br>
+>  I’m a Software Engineer learning and building projects with a focus on real-world problems ⚡️</br>
 
 
 ## Tech Stack
